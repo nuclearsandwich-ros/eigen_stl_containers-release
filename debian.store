@@ -1,1 +1,1 @@
-{"trim": "", "base": "2dfde80", "trimbase": "", "parent": "debian/eloquent/eigen_stl_containers", "previous": "d1aba5a"}
+{"base": "d707844", "parent": "debian/verystable/eigen_stl_containers", "previous": "7e481fc", "trim": "", "trimbase": ""}
